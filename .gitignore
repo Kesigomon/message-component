@@ -1,0 +1,6 @@
+# プロジェクトの除外パス
+/node_modules/
+/init.js
+/init.js.map
+/main.js
+/main.js.map
